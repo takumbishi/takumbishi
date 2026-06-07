@@ -23,8 +23,8 @@ Currently preparing for:
 ## Certifications
 
 * Microsoft Azure Fundamentals (AZ-900)
-* UoPeople Undergraduate Certificate in Network & Application Security
-* Bachelor’s Degree in Computer Science — University of the People
+* Undergraduate Certificate in Network & Application Security
+* Bachelor’s Degree in Computer Science
 
 ---
 
