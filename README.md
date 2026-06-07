@@ -1,4 +1,4 @@
-# Hi, I'm Takudzwa Mushanyuki-Bishi
+# Hi, I'm Takudzwa
 
 Computer Science graduate focused on building practical software systems, workflow automation tools, and AI-assisted development solutions.
 
