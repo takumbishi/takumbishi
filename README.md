@@ -47,7 +47,7 @@ Built using AI-assisted development workflows with manual debugging, feature ref
 
 ### MailGen Professional
 
-Privacy-focused alias and email workflow management platform built with Python and PySide6.
+Private Privacy-focused alias and email workflow management platform built with Python and PySide6.
 
 Features include:
 
