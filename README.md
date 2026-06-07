@@ -122,6 +122,7 @@ AI can accelerate development, but understanding, validating, refining, and ship
 ## Contact
 
 takubis@outlook.com
+
 ---
 
 Thanks for visiting my profile.
