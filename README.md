@@ -121,7 +121,7 @@ AI can accelerate development, but understanding, validating, refining, and ship
 
 ## Contact
 
-* Email: [yourprofessionalemail@example.com](mailto:yourprofessionalemail@example.com)
+* Email: takubis@outlook.com
 * Location: Germany
 
 Thanks for visiting my profile.
